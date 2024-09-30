@@ -32,12 +32,11 @@ return 0; // all programs must end with return zero
 #                                                                            #
 #    Press the key combination Ctrl + Shift + Escape                         #
 #                                                                            #
-#    Press the key combination Ctrl + Alt + Delete and select “Task Manager” #
+#    Press the key combination Ctrl + Alt + Delete and select "Task Manager" #
 #                                                                            #
-#    Type “Task Manager” in the Windows Start menu search                    #
+#    Type "Task Manager" in the Windows Start menu search                    #
 #                                                                            #
 ##############################################################################
 
-[1] + Done                       "/usr/bin/gdb" --interpreter=mi --tty=${DbgTerm} 0<"/tmp/Microsoft-MIEngine-In-lf4beyyt.2f5" 1>"/tmp/Microsoft-MIEngine-Out-gmew2xdu.kdk"
-@Azrafdabomb ➜ /workspaces/lab-1-cout-statements-Azrafdabomb (main) $ 
+PS C:\Users\azraf.hossain23\Documents\GitHub\lab-3-setfill-manipulator-Azrafdabomb> 
 */
